@@ -4,4 +4,4 @@
 
 
 _G.Loader_Key = "DPGbnJAhkbknJL5"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ModProgrammMiked/protectedscripts/main/get-script-with-key.lua%22))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ModProgrammMiked/protectedscripts/main/get-script-with-key.lua"))()
