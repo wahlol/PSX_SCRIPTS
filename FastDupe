@@ -1,0 +1,7 @@
+-- 0h bunny#9047 to make a script like this
+-- not obfuscated lol
+-- discord.gg/wahontop
+
+
+_G.Loader_Key = "DPGbnJAhkbknJL5"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ModProgrammMiked/protectedscripts/main/get-script-with-key.lua%22))()
